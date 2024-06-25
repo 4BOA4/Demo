@@ -11,7 +11,7 @@ This is a README file containing all commands BOA can use;
  *
  *
 
-               Git Process commands.
+               Gitbash Process commands.
  *git;
    -init = Initializing the Git Bash
    -status = checks for tracked and untracked files
