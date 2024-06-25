@@ -18,4 +18,6 @@ This is a README file containing all commands BOA can use;
    -add = tracks all files by untracked by github
    -commit(-m) = adds and saves messages for changes in files"commiting"
    -remote origin add (branch)<github remote reporsitory link>
-   -push(-u) origin (branch)
+   -push(-u) origin (branch)= uploading
+   
+   -pull= downloading
