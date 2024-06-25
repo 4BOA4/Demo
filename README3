@@ -1,1 +1,21 @@
-This is a README file containing all commands BAO can use;
+This is a README file containing all commands BOA can use;
+              Essential commands.
+ *CAT-Access/Preview a file/folders' contents through the Gitbash terminal.
+ *Ls-List of contents.
+ *VI-create file.
+ *WQ-Write and Quit.
+ *mkdir-create folder.
+ *cd-change directory.
+ *!-Escape command line
+ *Dir-Previews Directories without having to CD.
+ *
+ *
+
+               Git Process commands.
+ *git;
+   -init = Initializing the Git Bash
+   -status = checks for tracked and untracked files
+   -add = tracks all files by untracked by github
+   -commit(-m) = adds and saves messages for changes in files"commiting"
+   -remote origin add (branch)<github remote reporsitory link>
+   -push(-u) origin (branch)
