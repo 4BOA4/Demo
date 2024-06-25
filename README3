@@ -8,12 +8,12 @@ This is a README file containing all commands BOA can use;
  *cd-change directory.
  *!-Escape command line
  *Dir-Previews Directories without having to CD.
- *
- *
+ *README - Brief documentation of your project
+ *Fork- copying your reporsitory to your local terminal
 
                Gitbash Process commands.
  *git;
-   -init = Initializing the Git Bash
+   -init = Initializing the Git Bash terminal to connect with the remote reporsitory(Github)
    -status = checks for tracked and untracked files
    -add = tracks all files by untracked by github
    -commit(-m) = adds and saves messages for changes in files"commiting"
