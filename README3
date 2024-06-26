@@ -1,6 +1,7 @@
 This is a README file containing all commands BOA can use;
               Essential commands.
- *CAT-Access/Preview a file/folders' contents through the Gitbash terminal.
+ *CAT-Access/Preview a file/folders' contents through the Gitbash terminal.               *****************************
+ *rm (-r/-f) - removes file/folder  in the local machine from the terminal.
  *Ls-List of contents.
  *VI/Vim-creates a file.
  *WQ-Write and Quit.
