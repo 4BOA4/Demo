@@ -26,3 +26,28 @@ This is a README file containing all commands BOA can use;
 
                Access bin files
    -#!usr/bin/python3
+
+
+#! /bin/bash
+
+echo "Hello BOA!, This is just but a sample test to track my progress
+in shell scripting"
+echo "
+Bash -- Runs shell script files on the Terminal.
+echo ($) -- outputs shell script files on the Terminal
+mkdir -- Makes directories
+Touch -- Creates files
+Nano --  A versatile text editor primarily used to edit files 
+           directly from the command line
+chmod -- Enables you to change the permissions on a file.
+Lists all files with all the current permissions -- ls/ll (-l/-al )
+ls -- List all files in the current directory
+    write(w)=2 read(r)=4 (x)execute=1 File(-)=0
+pwd -- File/Directory path
+rmdir/rm -r/-rf -- removes dir and files
+cp -- copy
+mv -- moves file to another spec dir then dels the original
+grep -- searches for a spec name in the files when the file name is spec after command in the correct directory
+diff -- compares the diferences between to spec files
+passwd -- change current pasword
+info echo -- outputs default PC specs/info
