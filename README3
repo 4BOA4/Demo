@@ -28,6 +28,7 @@ This is a README file containing all commands BOA can use;
    -git log --shows status of all commits in the git branch
    -git rebase <brnch> --updates untracked files on all alt branches
    -pull= downloading
+   -git cherry-pick <hash code> = adds a specific dir to another branch, works similar to rebase
 
                Access bin files
    -#!usr/bin/python3
