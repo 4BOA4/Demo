@@ -15,13 +15,18 @@ This is a README file containing all commands BOA can use;
 
                Gitbash Process commands.
  *git;
+   -clone = pulling files from the git repo to local repo.
    -init = Initializing the Git Bash terminal to connect with the remote reporsitory(Github)
    -status = checks for tracked and untracked files
    -add = tracks all files by untracked by github
    -commit(-m) = adds and saves messages for changes in files"commiting"
    -remote origin add (branch)<github remote reporsitory link> = adds file to remote reporsitory.
    -push(-u) origin (branch)= uploading
-   
+
+   -git branch <brnh name> = ceates a new branch
+   -git checkout <brch name> = navigate to the specified alt branch
+   -git log --shows status of all commits in the git branch
+   -git rebase <brnch> --updates untracked files on all alt branches
    -pull= downloading
 
                Access bin files
